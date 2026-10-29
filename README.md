@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**AdrianC25/AdrianC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Adrian 👋
 
-Here are some ideas to get you started:
+### Desarrollador Web | Laravel · PHP · Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa el desarrollo de aplicaciones web, la creación de APIs
+y el diseño de soluciones eficientes utilizando tecnologías modernas.
+
+## 🚀 Sobre mí
+
+- 💻 Desarrollo de aplicaciones web con Laravel y PHP.
+- 🗄️ Trabajo con bases de datos MySQL.
+- 🌐 Aprendiendo y desarrollando proyectos con Vue.js y JavaScript.
+- 🔧 Interesado en buenas prácticas, código limpio y seguridad.
+- 📍 Ecuador.
+
+## 🛠️ Tecnologías
+
+- **Backend:** PHP, Laravel, docker
+- **Frontend:** HTML, CSS, JavaScript, Vue.js
+- **Bases de datos:** MySQL
+- **Herramientas:** Git, GitHub, VS Code
+
+## 📂 Proyectos destacados
+
+### Sistema de gestión escolar
+Aplicación para administrar información académica,
+usuarios, docentes, materias y aulas.
+
+### Sistema de cotizaciones
+Aplicación web para gestionar cotizaciones y generar
+documentos PDF.
+
+### Sitio web de joyería
+Proyecto web orientado a la presentación de productos
+y al diseño de una experiencia visual elegante.
+
+## 📫 Contacto
+
+- GitHub: https://github.com/AdrianC25
+- LinkedIn: www.linkedin.com/in/adrian-cevallos-61445b2a8
